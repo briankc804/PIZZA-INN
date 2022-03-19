@@ -18,3 +18,14 @@ h1{
     font-style: italic;
     color:white;
 }
+#paint{
+    text-align: end;
+    font-size: x-large;
+    color:blue;
+}
+.offers{
+    text-align: left;
+    padding:5%;
+    font-size:40px ;
+    padding-top: 5%;
+}
