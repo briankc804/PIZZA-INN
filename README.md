@@ -11,3 +11,11 @@ Jquery
 MIT license
 # contact
 whatsapp- 0703788739
+Author's Information
+My name is Brian Kiplangat Cheruiyot and i am a student at Moringa School.
+
+BDB
+this code can know wrong code entered,wrong details
+
+set up instruction
+Define your goalBack End of your application Test prototype
