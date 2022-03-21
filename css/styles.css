@@ -32,7 +32,8 @@ h2,h3,h4,h5{
     position: relative;
     background-repeat: no-repeat;
     background-size: cover;
-   height: 90vh;
+   height: 85vh;
+   width: 0px;
 }
 .col{
     color: white;
