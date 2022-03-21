@@ -1,7 +1,8 @@
 #inn{
-    background-image: url('../images/pizza2.jpg');
+    background-image: url('../images/images\ \(1\).jpeg');
     background-size: cover;
-    height: 50vh;
+    position: relative;
+    background-repeat: no-repeat;
     padding: 10%;
     border: 30%;
     padding-left: 20%;
@@ -18,14 +19,49 @@ h1{
     font-style: italic;
     color:white;
 }
-#paint{
-    text-align: end;
-    font-size: x-large;
-    color:blue;
+.case{
+    text-align: center;
+    color: orangered;
+    font-size: xx-large;
 }
-.offers{
-    text-align: left;
-    padding:5%;
-    font-size:40px ;
-    padding-top: 5%;
+h2,h3,h4,h5{
+    padding: 3px;
+}
+.container{
+    background-image: url('../images/images\ \(11\).jpeg');
+    position: relative;
+    background-repeat: no-repeat;
+    background-size: cover;
+   height: 70vh;
+}
+.col{
+    color: white;
+}
+.tend{
+    color: orangered;
+    text-align: center;
+    font-size: xx-large;
+}
+tr{
+    color:whitesmoke;
+}
+.delivery{
+    color: brown;
+}
+.pen{
+    color: grey;
+    text-align: center;
+    padding-top: 20px;
+}
+.checkout-btn{
+    align-items: red;
+    
+}
+.tooth{
+    text-align: center;
+    padding-top: 25px;
+    color: white;
+}
+.form-check{
+    align-items: center;
 }
